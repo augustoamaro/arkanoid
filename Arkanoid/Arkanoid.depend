@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1354250667 source:d:\meus documentos\faculdade\c++\arkanoid\main.cpp
+	<iostream>
+	<conio2.h>
+	<windows.h>
+	<stdlib.h>
+
